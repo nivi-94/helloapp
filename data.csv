@@ -1,6 +1,6 @@
-Income,Credit_Score,Loan_Approved
-25000,600,No
-30000,650,Yes
-40000,700,Yes
-15000,550,No
-50000,750,Yes
+Age,Glucose_Level,Diabetes
+25,85,No
+30,90,No
+45,130,Yes
+50,150,Yes
+35,120,No
